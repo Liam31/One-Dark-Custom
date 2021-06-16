@@ -1,0 +1,35 @@
+{
+    "name": "theme-one-dark-vivid-custom",
+    "displayName": "One Dark Vivid Custom",
+    "description": "Custom version fo One Dark Vivid for VSCode.",
+    "version": "0.1",
+    "publisher": "LiamAndrzejewski",
+    "author": "Liam Andrzejewski",
+    "license": "MIT",
+    "engines": {
+        "vscode": "^1.10.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "One Dark Vivid",
+                "uiTheme": "vs-dark",
+                "path": "./theme.json"
+            }
+        ]
+    },
+    "bugs": {
+        "url": "https://github.com/Liam31/Custom-VSCode-Theme.issues"
+    },
+    "homepage": "https://github.com/Liam31/Custom-VSCode-Theme/README.md",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/Liam31/Custom-VSCode-Theme.git"
+    },
+    "keywords": [
+        "one dark"
+    ]
+}
