@@ -341,7 +341,7 @@
       "name": "Keywords",
       "scope": "keyword",
       "settings": {
-        "foreground": "#e19ef5"
+        "foreground": "#D55FDE"
       }
     },
     {
@@ -552,14 +552,14 @@
       "name": "Constants",
       "scope": "constant",
       "settings": {
-        "foreground": "#dee2f7"
+        "foreground": "#D55FDE"
       }
     },
     {
       "name": "Constants",
       "scope": "punctuation.definition.constant",
       "settings": {
-        "foreground": "#dee2f7"
+        "foreground": "#D55FDE"
       }
     },
     {
@@ -1107,7 +1107,7 @@
       "name": "python function-call.generic",
       "scope": "meta.function-call.generic.python",
       "settings": {
-        "foreground": "#61AFEF"
+        "foreground": "#DE5F5F"
       }
     },
     {
