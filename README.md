@@ -1,1 +1,1 @@
-Custom version of [This](https://github.com/kkozee/vscode-theme-one-dark-vivid/blob/master/README.md).
+Custom version of [This](https://github.com/rdev/vscode-theme-onedark-spacegray).
